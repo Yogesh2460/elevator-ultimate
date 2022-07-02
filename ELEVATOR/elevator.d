@@ -1,0 +1,1 @@
+.\elevator.o: Elevator.c
